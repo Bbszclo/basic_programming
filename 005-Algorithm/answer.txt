@@ -1,0 +1,11 @@
+-36 -35 -32 -27 -20 -11 0 13 28 45 64 85 108 133 160 189 220 253
+
+n=x
+value=-(n^2)
+show value
+i=1
+repeat 3x-1 times:
+  value=value+i
+  i+=2
+  show value
+

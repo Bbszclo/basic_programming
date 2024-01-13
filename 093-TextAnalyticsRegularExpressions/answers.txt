@@ -1,0 +1,10 @@
+the
+gatsby
+\b[a-zA-Z]*zz[a-zA-Z]*\b
+\b[a-zA-Z]*x\b
+\b\w+ei\w*\b
+\b[a-zA-Z]*[bcdfghjklmnpqrstvwxz]{4}[a-zA-Z]*\b
+\b\d{5}(?:-\d{4})?\b
+\b\d{2}/\d{2}/(\d{4})\b
+\b4\d{3}( \d{4}){3}\b
+D
